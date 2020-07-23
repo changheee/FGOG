@@ -32,22 +32,7 @@ import merp.framework.utils.ComDateUtil;
 import merp.framework.utils.ComStringUtil;
 import merp.sd.cs.service.SDCS0101Service;
 
-/**
- * ComController
- * @author 김광호
- * @since 2019.03.13
- * @version 1.0
- * @see
- *
- * <pre>
- *  Modification Information
- *  수정일      		수정자        수정내용
- *  ---------- -------- ---------------------------
- *  2019.03.13  김광호        최초 생성
- * </pre>
- *
- * Copyright (C) 2019 by NDS., All rights reserved.
- */
+
 
 @Controller
 public class ComController {
