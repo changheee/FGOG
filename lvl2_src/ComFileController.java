@@ -42,22 +42,7 @@ import merp.framework.exception.ComBizException;
 import merp.framework.utils.ComFileUtil;
 import merp.framework.utils.ComStringUtil;
 
-/**
- * FileController.java
- * @author 엄창희
- * @since 2019.04.03
- * @version 1.0
- * @see
- *
- * <pre>
- *  Modification Information
- *  수정일      		수정자        수정내용
- *  ---------- -------- ---------------------------
- *  2019.04.03  엄창희        최초 생성
- * </pre>
- *
- * Copyright (C) 2019 by NDS., All rights reserved.
- */
+
 
 @Controller
 public class ComFileController {
